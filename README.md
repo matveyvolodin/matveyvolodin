@@ -1,6 +1,6 @@
 ### Hi there, i'm Matvey Volodin
 
-I am a junior QA engineer who previously worked as a lawyer. I believe that my extensive experience with documents and legal sources has helped me avoid many mistakes in creating testing documentation and working with requirements." Here I'd like to showcase a few examples of my testing documentation that I created during my studies. I am also passionate about learning the English language. [Сheck out my CV here](https://github.com/matveyvolodin/my_cv) 
+I am a junior QA engineer who previously worked as a lawyer. I believe that my extensive experience with documents and legal sources has helped me avoid many mistakes in developing testing documentation and working with requirements." Here I'd like to showcase a few examples of my testing documentation that I developed during my studies. I am also passionate about learning the English language. [Сheck out my CV here](https://github.com/matveyvolodin/my_cv) 
 
 ### Some tools i working with:
 <p align="center">
@@ -38,7 +38,7 @@ I am a junior QA engineer who previously worked as a lawyer. I believe that my e
 ### Let's get in touch:
 
 <p align="center"> 
-<a href= "https://www.linkedin.com/in/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
+<a href= "[https://www.linkedin.com/in/](https://www.linkedin.com/in/matveyvolodin/)"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
 <a href= "https://t.me/mtfzx"><img src="https://img.icons8.com/?size=512&id=63306&format=png" width="40" height="40" alt="telegram"/></a>
 <a href= "mailto:volodinjur@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
 </p>
