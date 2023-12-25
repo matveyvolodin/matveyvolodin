@@ -1,6 +1,6 @@
 ### Hi there, i'm Matvey Volodin
 
-I am a junior QA engineer who previously worked as a lawyer. I believe that my extensive experience with documents and legal sources has helped me avoid many mistakes in creating testing documentation and working with requirements." Here I'd like to showcase a few examples of my testing documentation that I created during my studies. I am also passionate about learning the English language. Сheck out my resume here (will be uploaded soon)
+I am a junior QA engineer who previously worked as a lawyer. I believe that my extensive experience with documents and legal sources has helped me avoid many mistakes in creating testing documentation and working with requirements." Here I'd like to showcase a few examples of my testing documentation that I created during my studies. I am also passionate about learning the English language. [Сheck out my CV here](https://github.com/matveyvolodin/my_cv) 
 
 ### Some tools i working with:
 <p align="center">
