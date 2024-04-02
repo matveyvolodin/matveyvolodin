@@ -34,6 +34,7 @@ I am a junior QA engineer who previously worked as a lawyer. I believe that my e
 6. <a href="https://github.com/matveyvolodin/charles_proxy">Charles proxy</a>
 7. <a href="https://github.com/matveyvolodin/bash">Bash</a>
 8. <a href="https://github.com/matveyvolodin/git">Git</a>
+9. <a href="https://github.com/matveyvolodin/selenium_practice">Python / testing automation</a>
 
 ### Let's get in touch:
 
