@@ -1,6 +1,6 @@
 ### Hi there, i'm Matvey Volodin
 
-I am a junior QA engineer who previously worked as a lawyer. I believe that my extensive experience with documents and legal sources has helped me avoid many mistakes in developing testing documentation and working with requirements." Here I'd like to showcase a few examples of my testing documentation that I developed during my studies. I am also passionate about learning the English language. [Сheck out my CV here](https://github.com/matveyvolodin/my_cv) 
+I am a junior QA engineer who previously worked as a lawyer. I believe that my extensive experience with documents and legal sources has helped me avoid many mistakes in developing testing documentation and working with requirements." Here I'd like to showcase a few examples of my testing documentation that I developed during my studies. I am also passionate about learning the English language and Python for testing automation. [Сheck out my CV here](https://github.com/matveyvolodin/my_cv)
 
 ### Some tools i working with:
 <p align="center">
@@ -23,6 +23,13 @@ I am a junior QA engineer who previously worked as a lawyer. I believe that my e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
+  <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/pycharm_93936.png" title="python" alt="python" width="40" height="40"/>
+  <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/pycharm_93936.png" title="pycharm" alt="pycharm" width="40" height="40"/>
+  <img src="https://cdn.icon-icons.com/icons2/3915/PNG/512/selenium_logo_icon_249659.png" title="selenium" alt="selenium" width="40" height="40"/>
+  <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/playwright_logo_icon_248827.png" title="playwright" alt="playwright" width="40" height="40"/>
+  
+   
+  
 </p>
 
 ### Testing arctifacts:
@@ -34,7 +41,7 @@ I am a junior QA engineer who previously worked as a lawyer. I believe that my e
 6. <a href="https://github.com/matveyvolodin/charles_proxy">Charles proxy</a>
 7. <a href="https://github.com/matveyvolodin/bash">Bash</a>
 8. <a href="https://github.com/matveyvolodin/git">Git</a>
-9. <a href="https://github.com/matveyvolodin/selenium_practice">Python / testing automation</a>
+9. <a href="https://github.com/matveyvolodin/luma_spring2024_RRS_isolated">Some automated tests: Python/Selenium </a>
 
 ### Let's get in touch:
 
