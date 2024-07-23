@@ -26,7 +26,7 @@ I am a junior QA engineer who previously worked as a lawyer. I believe that my e
   <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" title="python" alt="python" width="40" height="40"/>
   <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/pycharm_93936.png" title="pycharm" alt="pycharm" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/354321/selenium.svg" title="selenium" alt="selenium" width="40" height="40"/>
-  <img src="https://image.pngaaa.com/84/5809084-middle.png" title="playwright" alt="playwright" width="40" height="40"/>
+  <img src="https://miro.medium.com/v2/resize:fit:646/1*gMiUPuRGC36nxZHe2zthOg.png" title="playwright" alt="playwright" width="55" height="40"/>
   
    
   
