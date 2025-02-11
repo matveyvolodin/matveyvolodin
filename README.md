@@ -1,6 +1,6 @@
-### Hi there, i'm Matvey Volodin
+### Hi there, i'm Matvey
 
-I am a junior QA engineer who previously worked as a lawyer. I believe that my extensive experience with documents and legal sources has helped me avoid many mistakes in developing testing documentation and working with requirements." Here I'd like to showcase a few examples of my testing documentation that I developed during my studies. I am also passionate about learning the English language and Python for testing automation. [Сheck out my CV here](https://github.com/matveyvolodin/my_cv)
+I am a QA engineer with a background in law. My experience working with legal documents and requirements has helped me develop precise and well-structured testing documentation while minimizing errors. Currently, I am learning Java for test automation. Here, I showcase examples of my testing documentation and automated tests created during my studies and internship. [Сheck out my CV here](https://github.com/matveyvolodin/my_cv)
 
 ### Some tools i working with:
 <p align="center">
@@ -11,11 +11,11 @@ I am a junior QA engineer who previously worked as a lawyer. I believe that my e
   <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>
+  <img src="https://icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" title="postman" alt="postman" width="40" height="40"/>
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="soapui" alt="soapui" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="xcode" alt="xcode" width="40" height="40"/>
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>
+  <img src="https://icon-icons.com/icons2/1381/PNG/512/charlesproxy_94518.png" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>
   <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="fiddler" alt="fiddler" width="40" height="40"/>
   <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="proxyman" alt="proxyman" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>
@@ -23,8 +23,8 @@ I am a junior QA engineer who previously worked as a lawyer. I believe that my e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
-  <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" title="python" alt="python" width="40" height="40"/>
-  <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/pycharm_93936.png" title="pycharm" alt="pycharm" width="40" height="40"/>
+  <img src="https://icon-icons.com/icons2/2699/PNG/512/python_logo_icon_168886.png" title="python" alt="python" width="40" height="40"/>
+  <img src="https://icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" title="python" alt="java" width="40" height="40"/> 
   <img src="https://www.svgrepo.com/show/354321/selenium.svg" title="selenium" alt="selenium" width="40" height="40"/>
   <img src="https://miro.medium.com/v2/resize:fit:646/1*gMiUPuRGC36nxZHe2zthOg.png" title="playwright" alt="playwright" width="55" height="40"/>
   
