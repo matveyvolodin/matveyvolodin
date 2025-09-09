@@ -1,6 +1,6 @@
 ### Hi there, i'm Matvey
 
-I am a QA engineer with a background in law. My experience working with legal documents and requirements has helped me develop precise and well-structured testing documentation while minimizing errors. Currently, I am learning Java for test automation. Here, I showcase examples of my testing documentation and automated tests created during my studies and internship. [Сheck out my CV here](https://github.com/matveyvolodin/my_cv)
+I’m a QA engineer with solid experience in both manual testing and test automation, mainly in Java and Python using Selenium/Playwright. I have examples of my testing documentation and automated tests from my studies and internship — although some of them are a bit outdated. Before switching to QA, I worked as a lawyer, which really strengthened my analytical and documentation skills.  [Сheck out my CV here](https://github.com/matveyvolodin/my_cv)
 
 ### Tools I’m working with:
 <p align="center">
